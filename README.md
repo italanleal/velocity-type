@@ -1,5 +1,3 @@
-# velocity-type
-
 # ⚡ Velocity Type | 100 Word Challenge
 
 Velocity Type is a minimalist, high-performance typing game designed to test both speed (WPM) and accuracy. Unlike standard typing tests, Velocity Type uses a **Markov Chain** to generate rhythmic, semi-natural text from a local corpus, creating a unique typing flow every time you play.
