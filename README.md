@@ -9,8 +9,6 @@ Velocity Type is a minimalist, high-performance typing game designed to test bot
     * **Perfect Words**: Earn a golden "PERFECT" bonus and increase your multiplier by typing words with zero mistakes and zero backspaces.
     * **Strict Multiplier**: Any mistype immediately resets your streak multiplier to 1.0x.
 * **❤️ Life System**: You have 3 lives. Committing a word with uncorrected errors costs a life. 
-* **🎯 Pixel-Perfect Cursor**: An absolute-positioned cursor that tracks character offsets in real-time.
-* **🔒 Anti-Cheat/Zoom**: Custom JavaScript handlers to disable browser zooming (Ctrl + Scroll/Keys) to maintain layout integrity.
 
 ## 🕹️ How to Play
 
