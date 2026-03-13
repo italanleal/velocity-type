@@ -2,8 +2,6 @@
 
 Velocity Type is a minimalist, high-performance typing game designed to test both speed (WPM) and accuracy. Unlike standard typing tests, Velocity Type uses a **Markov Chain** to generate rhythmic, semi-natural text from a local corpus, creating a unique typing flow every time you play.
 
-!
-
 ## ✨ Key Features
 
 * **🧠 Markov Chain Generation**: Text is generated dynamically from a local `corpus.txt`. This ensures a natural linguistic flow rather than just a random string of words.
