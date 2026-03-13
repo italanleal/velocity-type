@@ -21,17 +21,6 @@ Velocity Type is a minimalist, high-performance typing game designed to test bot
 3.  **Correct Mistakes**: You can use `Backspace` or `Ctrl + Backspace` to fix errors, but the word will no longer be "Perfect."
 4.  **Finish the Challenge**: Complete 30 words (configurable) without losing your 3 lives.
 
-## 🚀 Installation & Setup
-
-1.  **Clone the Repository**:
-    ```bash
-    git clone [https://github.com/yourusername/velocity-type.git](https://github.com/yourusername/velocity-type.git)
-    ```
-2.  **Add your Corpus**:
-    Place a text file named `corpus.txt` inside the `/static` folder. The Markov Chain will use this text to generate the game content.
-3.  **Run**:
-    Since the game uses `fetch` to read the static file, you must run it via a local server (like Live Server in VS Code) to avoid CORS issues.
-
 ## 🛠️ Built With
 
 * **HTML5/CSS3**: Custom cyberpunk aesthetic with neon glow effects.
